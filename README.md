@@ -19,7 +19,7 @@ Edit Modes:
   - Unusable (Dark Gray): Ignored by the optimizer; spaces that cannot be passed through by the player
 - Forced empty tile (Cyan): Any space that is player-walkable but should be ignored by the optimizer
 - Set entrance (Green): A manditory forced empty tile, normally an entrance to the storage area
-- Toggle wall edge: Mark spaces between tils as having walls (cannot walk or interact through)
+- Toggle wall edge: Mark spaces between tiles as having walls (cannot walk or interact through)
 
 Optimizer Settings:
 - Time Limit: Max time the optimizer will run before return it's best guess, will end earlier if it finds an optimized solution before time limit is reached
