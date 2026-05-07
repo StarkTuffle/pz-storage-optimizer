@@ -26,4 +26,4 @@ Optimizer Settings:
 - Max Workers (Advanced): Worker threads used by the optimizer
 
 An example using the Rosewood Fire Department garage
-![Example Image](https://github.com/StarkTruffle/pz-storage-optimizer/raw/main/img/Example_RosewoodFD.png)
+![Example Image](https://raw.githubusercontent.com/StarkTuffle/pz-storage-optimizer/refs/heads/main/img/Example_RosewoodFD.png)
