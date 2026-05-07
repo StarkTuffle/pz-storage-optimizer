@@ -24,3 +24,6 @@ Edit Modes:
 Optimizer Settings:
 - Time Limit: Max time the optimizer will run before return it's best guess, will end earlier if it finds an optimized solution before time limit is reached
 - Max Workers (Advanced): Worker threads used by the optimizer
+
+An example using the Rosewood Fire Department garage
+![Example Image](https://github.com/StarkTruffle/pz-storage-optimizer/raw/main/img/Example_RosewoodFD.png)
